@@ -8,7 +8,8 @@
 
 <br />
 <br />
-## 1、点击 start.bat 文件启动
+## 1、点击 start.bat 文件服务
+
 ![启动](https://github.com/ttluowen/StaticWeb/blob/master/__image/pic-1.png)
 
 ## 2、启动成功
