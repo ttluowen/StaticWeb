@@ -64,6 +64,10 @@ public class ServerMain {
 
 		System.out.println("服务启动成功，端口 " + port);
 
+		// 打开浏览器。
+		Runtime.getRuntime().exec("cmd /c start http://localhost:" + port);
+
+
 		server.start();
 		server.join();
 	}
